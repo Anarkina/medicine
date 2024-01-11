@@ -1,0 +1,2 @@
+# medicine
+FOR WORDPRESS
